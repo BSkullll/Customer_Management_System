@@ -13,4 +13,6 @@
             1.You can also Run This project by Double Clicking the Customer_Management_System.py Directly.
                                  
                                  
-                                 Developed By :- Gaurav Kumar
+                                     Thank You
+                                 
+                                 
